@@ -25,6 +25,6 @@ A detailed Word document (converted to PDF) is included, showing:
 - Class designs
 - Screenshot proofs from Eclipse
 
- **See:** [`DesignPatterns-word`](./DesignPatterns-Handson.pdf)
+ **See:** [`DesignPatternsandPrinciples`](./DesignPatterns-Handson.pdf)
 
 
