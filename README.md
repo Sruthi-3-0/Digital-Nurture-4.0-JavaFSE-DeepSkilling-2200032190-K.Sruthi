@@ -25,6 +25,33 @@ A detailed Word document (converted to PDF) is included, showing:
 - Class designs
 - Screenshot proofs from Eclipse
 
- **See:** [`DesignPatternsandPrinciples`](./DesignPatterns-Handson.pdf)
+ **See:** [`DesignPatternsandPrinciples`](./Engineering Concepts-Handson.pdf)
 
+-----
+# E-commerce Platform Search Function
 
+This project implements and compares **Linear Search** and **Binary Search** on product data in an e-commerce platform. It is designed to show how algorithm efficiency affects search performance.
+
+---
+
+##  Features
+
+- Product search by name
+- Linear search over unsorted array
+- Binary search over sorted array
+- Time comparison between both searches
+
+---
+# Financial Forecasting Tool
+
+This project demonstrates a simple financial forecasting tool using a **recursive algorithm** to predict future values based on past growth.
+
+---
+
+##  Features
+- Recursive calculation of future financial value.
+- alternate for the recursive function (best way).
+
+**See:** [`Algorithms_Data Structure`](./Engineering Concepts-Handson.pdf)
+
+---
